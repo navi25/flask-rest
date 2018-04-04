@@ -1,0 +1,7 @@
+Flask
+connexion==1.1.5
+Flask-Injector
+fastavro
+elasticsearch
+boto
+simplejson
